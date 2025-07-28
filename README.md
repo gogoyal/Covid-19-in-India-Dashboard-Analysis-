@@ -1,4 +1,5 @@
-<img width="1415" height="790" alt="image" src="https://github.com/user-attachments/assets/d3bd5289-bc6f-4717-86a9-84d85d345102" />
+<img width="1799" height="999" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f1d22d19-4284-4377-8728-020d492e3d2d" />
+
 
 📊 Covid-19 in India Dashboard Analysis
 This Tableau project presents an interactive dashboard analyzing the impact of Covid-19 across different states in India. The dashboard aggregates data on case counts, testing statistics, vaccination rates, age and gender demographics, and geographical distribution of fatalities.
