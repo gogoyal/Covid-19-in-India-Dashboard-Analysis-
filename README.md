@@ -1,4 +1,5 @@
-<img width="1799" height="999" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f1d22d19-4284-4377-8728-020d492e3d2d" />
+<img width="1799" height="999" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/30699df0-6bef-4a5f-afc4-579d98e594f5" />
+
 
 
 📊 Covid-19 in India Dashboard Analysis
